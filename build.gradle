@@ -1,0 +1,15 @@
+plugins {
+    id 'java'
+}
+
+repositories {
+    mavenCentral()
+}
+
+testing {
+    suites { 
+        test { 
+            useSpock('2.2-groovy-4.0')
+        }
+    }
+}
