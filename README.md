@@ -1,17 +1,13 @@
-# minimal-reproduction-template
-
-First, read the [Renovate minimal reproduction instructions](https://github.com/renovatebot/renovate/blob/main/docs/development/minimal-reproductions.md).
-
-Then replace the current `h1` with the Renovate Issue/Discussion number.
+# https://github.com/renovatebot/renovate/discussions/33753
 
 ## Current behavior
 
-Explain the current behavior here.
+The Spock version is not being updated
 
 ## Expected behavior
 
-Explain the expected behavior here.
+The Spock version should be updated to 2.3-groovy-4.0 or even 2.4-M5-groovy-4.0.
 
 ## Link to the Renovate issue or Discussion
 
-Put your link to the Renovate issue or Discussion here.
+https://github.com/renovatebot/renovate/discussions/33753
